@@ -111,7 +111,7 @@ from biliup.downloader import download
 download('文件名', 'https://www.panda.tv/1150595', suffix='flv')
 ```
 ## 使用建议
-国内VPS网络费用较高，建议使用国外VPS，根据机器的硬盘等资源设置合理并发量, 选择kodo线路较容易跑满带宽。
+国内VPS网络费用较高，建议使用国外VPS，根据机器的硬盘等资源设置合理并发量, 选择kodo线路较稳定容易跑满带宽。
 
 b站上传目前有两种模式，分别为bup和bupfetch模式。
 >* bup：国内常用模式，视频直接上传到b站投稿系统。
